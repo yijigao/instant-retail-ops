@@ -1,0 +1,1 @@
+{"compilerOptions":{"baseUrl":"./","emitDecoratorMetadata":true,"esModuleInterop":true,"experimentalDecorators":true,"forceConsistentCasingInFileNames":true,"module":"commonjs","outDir":"./dist","skipLibCheck":true,"strict":true,"target":"ES2022"},"include":["src/**/*"]}
